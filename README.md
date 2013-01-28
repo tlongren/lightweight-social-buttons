@@ -1,17 +1,17 @@
-Lightweight social share buttons
-================================
+#Lightweight social share buttons
 
 Let your users share your articles with no need of jQuery or Javascript.<br/>
 Good for performance since only two request will be made.<br/>
 Just simple anchor tags, some neat CSS and an icon font.<br/>
+If you want to display the icons in older browsers (lt IE7) just include lte-ie7.js with a conditional HTML comment and you're good to go.<br/>
 <a href="http://christian-fei.com/lab/lightweight-social-share-buttons/">PREVIEW</a>
 
-Preparation
-===========
+##Preparation
+
 Just copy the css folder in your project and reference the style.min.css file in the head of your HTML
 
-The markup
-==========
+##The markup
+
 If you want to show a button for facebook:<br/>
 &lt;a href="#" class="button facebook"&gt;Share on &lt;span class="icon-facebook"&gt;&lt;/span&gt;&lt;/a&gt;<br/>
 Where<br/>
@@ -21,8 +21,8 @@ span.icon-facebook 	~ displays the icon for this social network<br/>
 [opt]<br/>
 a.box 				~ drops a shadow behind the button<br/>
 
-URL-schemes
-===========
+##URL-schemes
+
 Just put this URL-scheme inside the href of the anchor tag:<br/>
 FACEBOOK:<br/>
 (http://www.facebook.com/sharer.php?u=[URL])<br/>
@@ -38,8 +38,7 @@ Where:<br/>
 [MEDIA-URL] 	~ a link to an image<br/>
 [DESCRIPTION] 	~ the description<br/>
 
-Icon font
-=========
+##Icon font
 
 The free service for creating the icon font is [icomoon.io](http://icomoon.io)\n
 The license : [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)\n
