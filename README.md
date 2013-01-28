@@ -4,7 +4,7 @@ Let your users share your articles with no need of jQuery or Javascript.<br/>
 Good for performance since only two request will be made.<br/>
 Just simple anchor tags, some neat CSS and an icon font.<br/>
 If you want to display the icons in older browsers (lt IE7) just include lte-ie7.js with a conditional HTML comment and you're good to go.<br/>
-<a href="http://christian-fei.com/lab/lightweight-social-share-buttons/">PREVIEW</a>
+<a href="http://christian-fei.com/lab/lightweight-social-buttons/">PREVIEW</a>
 
 ##Preparation
 
