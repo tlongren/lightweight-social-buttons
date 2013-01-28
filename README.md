@@ -8,7 +8,7 @@ If you want to display the icons in older browsers (lt IE7) just include lte-ie7
 
 ##Preparation
 
-Just copy the css folder in your project and reference the style.min.css file in the head of your HTML
+Just copy the css folder in your project and reference the style.min.css file inside the head tag of your HTML file.
 
 ##The markup
 
