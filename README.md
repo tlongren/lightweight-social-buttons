@@ -25,13 +25,13 @@ a.box 				~ drops a shadow behind the button<br/>
 
 Just put this URL-scheme inside the href of the anchor tag:<br/>
 FACEBOOK:<br/>
-[#](http://www.facebook.com/sharer.php?u=[URL])<br/>
+[http://www.facebook.com/sharer.php?u=[URL]](#)<br/>
 TWITTER:<br/>
-[#](http://twitter.com/home?status=Currently reading: [URL])<br/>
+[http://twitter.com/home?status=Currently reading: [URL]](#)<br/>
 GOOGLE PLUS:<br/>
-[#](https://plus.google.com/share?url=[URL])<br/>
+[https://plus.google.com/share?url=[URL]](#)<br/>
 PINTEREST<br/>
-[#](http://pinterest.com/pin/create/button/?url=[URL]]&amp;media=[MEDIA-URL]&amp;description=[DESCRIPTION])<br/>
+[http://pinterest.com/pin/create/button/?url=[URL]]&amp;media=[MEDIA-URL]&amp;description=[DESCRIPTION]](#)<br/>
 
 Where:<br/>
 [URL] 			~ the URL you want to share<br/>
