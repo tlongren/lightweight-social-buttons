@@ -31,7 +31,7 @@ TWITTER:<br/>
 GOOGLE PLUS:<br/>
 [https://plus.google.com/share?url=[URL]](#)<br/>
 PINTEREST<br/>
-[http://pinterest.com/pin/create/button/?url=[URL]]&amp;media=[MEDIA-URL]&amp;description=[DESCRIPTION]](#)<br/>
+[http://pinterest.com/pin/create/button/?url=[URL]&amp;media=[MEDIA-URL]&amp;description=[DESCRIPTION]](#)<br/>
 
 Where:<br/>
 [URL] 			~ the URL you want to share<br/>
