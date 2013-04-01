@@ -45,3 +45,8 @@ The free service for creating the icon font is [icomoon.io](http://icomoon.io)
 The license : [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 
 The icon font is compatible with all major browser and with some JS magic, even the old IE6 can understand the font.
+
+
+###Thanks
+
+I would like to thank [Nate Vaughn](https://twitter.com/NateVaughn) for the heads up on the twitter intents thingy.
